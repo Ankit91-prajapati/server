@@ -16,7 +16,7 @@ app.use(cookieParser());
 
 
 const allowedOrigins = [
-  "https://frontend-kappa-seven-35.vercel.app",
+  
   "http://localhost:3000"
 ];
 
